@@ -1,4 +1,5 @@
 # Battle-of-Neighborhoods
+Downtown Toronto is a buzzing area filled with shopping areas, restaurants, nightlife, parks, cultural venues, and an eclectic mix of neighborhoods. A businessman wants to invest by opening a new business but he is confused about which new business should he start. To help a businessman we have done clustering of all the neighborhoods based on the top venues in the neighborhood. Now a businessman can decide what type of business he can start in a particular neighborhood.
 # 1. All Neighborhoods of Toronto City
 ![All_Neihborhoods](https://user-images.githubusercontent.com/59040119/128589831-21d0e54a-8cf1-4a05-af3f-ea633d424c55.PNG)
 # 2. Neighborhoods in Downtown Toronto
